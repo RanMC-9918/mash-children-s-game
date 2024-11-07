@@ -65,6 +65,6 @@ function getPlace(){
 }
 
 function getJob(){
-    let home = ["software engineer", "teacher", "doctor", "engineer", "influencer", "neurosurgeon", "programmer", "tennis player", "music producer", "party clown"];
+    let home = ["software engineer", "teacher", "doctor", "engineer", "influencer", "neurosurgeon", "programmer", "tennis player", "music producer", "party clown", "Brawl Stars Gamer"];
     return home[randNumGenerator(home.length-1)];
 }
